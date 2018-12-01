@@ -1,0 +1,70 @@
+body {
+  font-family: Helvetica, Verdana;
+  font-size: 14px;
+}
+h1 {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 100vw;
+}
+.list {
+  margin-top: 100px;
+  right: 10;
+  position: absolute;
+  text-align: center;
+}
+.list button {
+  margin-top: 8px;
+}
+.desk {
+  border-radius: 2px;
+  border: 2px solid #35abff;
+  height: 17px;
+  padding: 4px;
+  position: absolute;
+  text-align: center;
+  width: 50px;
+  z-index: 2;
+}
+#desk_1 {
+  top: 470px;
+  left: 1057px;
+}
+#desk_2 {
+  top: 338px;
+  left: 1133px;
+}
+#desk_3 {
+  top: 194px;
+  left: 1074px;
+}
+#desk_4 {
+  top: 148px;
+  left: 918px;
+}
+#desk_5 {
+  top: 243px;
+  left: 792px;
+}
+#desk_6 {
+  top: 345px;
+  left: 624px;
+}
+#desk_7 {
+  top: 205px;
+  left: 585px;
+}
+#desk_8 {
+  top: 141px;
+  left: 448px;
+}
+#desk_9 {
+  top: 205px;
+  left: 308px;
+}
+#desk_10 {
+  top: 366px;
+  left: 271px;
+}
